@@ -1,1 +1,1 @@
-# go_math
+1. Relative Ranks logic
